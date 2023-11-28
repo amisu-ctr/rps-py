@@ -1,6 +1,6 @@
-print("Rock..")
+print("Rock...")
 print("Paper...")
-print("Scissors..")
+print("Scissors...")
 
 player1 = input("Player 1, make your move: ")
 print("***NO CHEATING!\n\n" * 20)
@@ -25,4 +25,3 @@ elif player1 == "scissors":
 		print("player2 wins!")	
 else:
 	print("something went wrong")
-
